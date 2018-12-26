@@ -4,7 +4,7 @@ Here's a sample I created for text analytics to normalize text using Python and 
 
 After installing Azure Function tools on VSCode, it's really easy to test your Python function on your local and publish to Azure as an Azure Function App.
 
-![](screenshots\vscodeFunctions.png)
+![](screenshots/vscodeFunctions.png)
 
 * For more details about [Azure Functions for Visual Studio Code (Preview)
 ](https://github.com/Microsoft/vscode-azurefunctions)
@@ -83,19 +83,19 @@ After installing Azure Function tools on VSCode, it's really easy to test your P
 
 1. After you test your function select `"Deploy to Function App"` to publish your local Azure funtion app to Azure Functions App.
 
-    ![](screenshots\deployfunction.png)
+    ![](screenshots/deployfunction.png)
 
 1. After selecting your subscription and Azure Function App, your application will be deployed. All local environments and necessary libraries are zipped into `PythonFunction.zip` file.
 
-    ![](screenshots\PythonFunctionZip.png)
+    ![](screenshots/PythonFunctionZip.png)
 
 1. You'll notice that your zip packages is uploaded to your blob storage of your Azure Function.
 
-    ![](screenshots\envfilesblob.png)
+    ![](screenshots/envfilesblob.png)
 
 1. Then you can test your service using your Azure function endpoint.
 
-    ![](screenshots\FuncionCall.png)
+    ![](screenshots/FuncionCall.png)
 
 ## Materials
 * More details about [Azure Functions for Visual Studio Code (Preview)
