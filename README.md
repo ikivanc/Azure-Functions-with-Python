@@ -6,6 +6,7 @@ After installing Azure Function tools on VSCode, it's really easy to test your P
 
 ![](screenshots/vscodeFunctions.png)
 
+* [Taking a closer look at Python support for Azure Functions](https://azure.microsoft.com/en-us/blog/taking-a-closer-look-at-python-support-for-azure-functions)
 * For more details about [Azure Functions for Visual Studio Code (Preview)
 ](https://github.com/Microsoft/vscode-azurefunctions)
 * For more details about [Create your first Python function in Azure (preview)
@@ -98,6 +99,7 @@ After installing Azure Function tools on VSCode, it's really easy to test your P
     ![](screenshots/FuncionCall.png)
 
 ## Materials
+* [Taking a closer look at Python support for Azure Functions](https://azure.microsoft.com/en-us/blog/taking-a-closer-look-at-python-support-for-azure-functions)
 * More details about [Azure Functions for Visual Studio Code (Preview)
 ](https://github.com/Microsoft/vscode-azurefunctions)
 * More details about [Create your first Python function in Azure (preview)
